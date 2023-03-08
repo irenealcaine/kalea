@@ -7,6 +7,9 @@ module.exports = {
       marker: ['"Permanent Marker"', "cursive"],
       merienda: ["Merienda", "cursive"],
     },
+    borderRadius: {
+      xxl: "2rem",
+    },
     extend: {},
   },
   plugins: [],

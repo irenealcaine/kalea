@@ -7,13 +7,13 @@ const Menu = () => {
         Especialidades
       </h2>
       <div className="w-11/12 mx-auto">
-        <div className="border-2 border-emerald-700 rounded-tl-lg rounded-br-lg">
+        <div className="border-2 border-emerald-700 rounded-tl-xxl rounded-br-xxl overflow-hidden">
           <img
             src="https://upload.wikimedia.org/wikipedia/commons/4/45/A_small_cup_of_coffee.JPG"
             alt="imagen de la bebida"
           />
           <div class="text">
-            <p className="text-center font-merienda px-4 py-2 text-xl">Café</p>
+            <p className="text-center font-merienda pt-4 text-xl">Café</p>
             <p className="indent-4 text-justify px-4 py-2">
               El café es la bebida que se obtiene a partir de los granos
               tostados y molidos de los frutos de la planta del café (cafeto);
