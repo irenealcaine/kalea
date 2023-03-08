@@ -2,10 +2,10 @@ import React from "react";
 
 const FrontPage = () => {
   return (
-    <div className="h-screen flex flex-col justify-center items-center gap-4">
-      <h1 className="font-bold text-3xl">KALEA</h1>
+    <div className="h-screen flex flex-col justify-center items-center gap-8">
+      <h1 className="">KALEA</h1>
       <nav>
-        <ul className="flex gap-2">
+        <ul className="flex flex-col items-center gap-4 font-merienda text-2xl">
           <li>
             <a href="#contact">Contacto</a>
           </li>
