@@ -6,11 +6,11 @@ const FrontPage = () => {
       <h1 className="">KALEA</h1>
       <nav>
         <ul className="flex flex-col items-center gap-4 font-merienda text-2xl">
-          <li>
-            <a href="#contact">Contacto</a>
+          <li className="hover:underline hover:decoration-emerald-700">
+            <a href="#menu">Especialidades</a>
           </li>
           <li>
-            <a href="#menu">Especialidades</a>
+            <a href="#contact">Contacto</a>
           </li>
           <li>
             <a href="#gallery">Nosotros</a>
