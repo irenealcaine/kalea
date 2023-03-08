@@ -29,7 +29,7 @@ const Gallery = () => {
         <div>
           <div className="border border-emerald-400 relative rounded-xl px-4 py-2 bg-emerald-900/20">
             <p className="font-merienda indent-4">Nombre del cliente</p>
-            <p>
+            <p className="indent-4 text-justify">
               Esta es una opinión de un cliente. Esta es una opinión de un
               cliente.
             </p>
