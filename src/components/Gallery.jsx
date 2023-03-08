@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
 
 const Gallery = () => {
   return (
-    <div>Gallery</div>
-  )
-}
+    <div id="gallery" className="min-h-screen">
+      <h2>Nosotros</h2>
+    </div>
+  );
+};
 
-export default Gallery
+export default Gallery;

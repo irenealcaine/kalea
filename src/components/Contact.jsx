@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
 
 const Contact = () => {
   return (
-    <div>Contact</div>
-  )
-}
+    <div id="contact" className="min-h-screen">
+      <h2>Contacto</h2>
+    </div>
+  );
+};
 
-export default Contact
+export default Contact;
